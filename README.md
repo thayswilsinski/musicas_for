@@ -13,7 +13,16 @@ Este repositório contém uma implementação de um laço de repetição `for` e
 
 O código foi implementado em Python e está disponível no arquivo `musicas.py`. Ele utiliza um laço de repetição `for` para percorrer uma lista de músicas e exibi-las na tela. Além disso, foram incluídos mais três tipos de músicas para diversificar a lista.
 
-## Explicação do Laço de Repetição `for`
+## Explicação do codigo
 
 O laço de repetição `for` é uma estrutura de controle que permite executar um bloco de código várias vezes, iterando sobre uma sequência de elementos. No contexto deste código, o `for` é utilizado para percorrer uma lista de músicas e exibi-las na tela.
+
+Elemento <select>:Tag HTML para criar menus suspensos de opções em páginas da web.
+
+Método addEventListener() em JavaScript:Função JavaScript para adicionar interatividade, permitindo a execução de código quando ocorrem eventos específicos em elementos HTML.
+ 
+ ## Fonte 
+
+ chat gpt.
+
 
